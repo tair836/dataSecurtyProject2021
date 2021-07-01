@@ -286,7 +286,7 @@ def encode_message(data):
 if __name__ == "__main__":
 
     print('----------------Encoding message in image using dilate-diff algorithm----------------\n')
-    input_image = "pic2.png"
+    input_image = "gray_pic.png"
     output_image = "encoded_pic1.png"
     secret_data = "we want 100 in this project:)"
 
@@ -305,7 +305,7 @@ if __name__ == "__main__":
 
     print('----------------Encoding message in image using canny algorithm----------------\n')
 
-    input_image = "pic2.png"
+    input_image = "gray_pic.png"
     output_image = "encoded_pic2.png"
     secret_data = "we want 100 in this project:)"
 
