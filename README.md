@@ -1,7 +1,7 @@
 LSBM-Image-Steganography
-Simple implementation of Least Significant Bit Matching Image Steganography/n
+Simple implementation of Least Significant Bit Matching Image Steganography<br/>
 
-Group members/n
+Group members<br/>
 Tair Shriki 211966379
 Ruth Bracha Cohen 314653320
 Margalit Lionov 316206879
